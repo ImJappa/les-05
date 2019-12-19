@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+}
+
+.block {
+    float:left;
+}
+
+#block-01 {
+    height: 400px;
+    width: 200px;
+    background-color: yellow;
+}
+
+#block-02 {
+    height: 400px;
+    width: 244px;
+    background-color: white;
+    margin-left: 8px;
+}
+
+#block-03 {
+    height: 400px;
+    width: 140px;
+    margin-left: 8px;
+    background-color: red;
+}
+
+main {
+    width: 600px;
+    height: 400px;
+    background-color:black;
+}
